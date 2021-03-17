@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+   html {
+      font-size: 15px;
+   }
+   .container {
+      width: 500px;
+
+      #wrong {
+         left: 180px;
+      }
+      #correct {
+         left: 180px;
+      }
+   }
+}
